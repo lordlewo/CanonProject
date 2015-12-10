@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/CanonProject/src/main/resources/sql/album.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/CanonProject/src/main/resources/sql/album_mappings.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/CanonProject/src/main/resources/sql/image.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/CanonProject/src/main/resources/sql/metadata.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/CanonProject/src/main/resources/sql/mime.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/CanonProject/src/main/resources/sql/tag.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/CanonProject/src/main/resources/sql/tag_mappings.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/CanonProject/src/main/resources/sql/test.sql" dialect="MySQL" />
+  </component>
+</project>
